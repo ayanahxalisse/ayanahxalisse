@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ayanahxalisse. I'm a mom, an athlete, a gamer and a snacker.  
+- 👋 Hi, I’m @ayanahxalisse. I'm a mom, an athlete, and a writer.  
 - 👀 I’m interested in starting a new career!
-- 🌱 I’m currently learning IBM's Data Engineering course on Coursera.
+- 🌱 I’m working on IBM's Data Engineering Professional Certificate course on Coursera.
 - 💞️ I’m looking to collaborate on beginner-friendly projects.
 - 📫 How to reach me ... ayanah@protonmail.com.
